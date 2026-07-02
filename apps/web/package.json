@@ -13,6 +13,8 @@
   "dependencies": {
     "@prisma/client": "6.5.0",
     "@repo/ui": "workspace:*",
+    "@types/dotenv": "^8.2.3",
+    "dotenv": "^17.4.2",
     "next": "^15.2.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
